@@ -2,7 +2,6 @@ body{
   margin: 0px;
 }
 
-
 .box_1{
   background-color: darkblue;
   width: 100%;
@@ -54,7 +53,7 @@ body{
     margin-bottom: 20px;
   }
 
-  .cont_3 {
+  .general-conteiner {
     display: flex;
     width: 100%;
     flex-wrap: wrap;
@@ -87,25 +86,10 @@ body{
     margin-bottom: 28px;
   }
 
-  .cont_1 {
+  .general-conteiner {
     width: 100%; 
     display: flex;
     flex-wrap: nowrap;
     gap: 10px;
   }
-
-  .cont_2{
-    width: 100%;
-    display: flex;
-    flex-wrap: nowrap;
-    gap: 10px;
-  }
-
-  .cont_3 {
-    display: flex;
-    width: 100%;
-    flex-wrap: nowrap;
-    gap: 10px;
-  }
-
 }
